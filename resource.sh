@@ -3,3 +3,6 @@
 #du -h
 ls -l
 hostname
+date
+time
+
